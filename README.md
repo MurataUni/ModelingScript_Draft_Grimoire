@@ -14,7 +14,8 @@ ZBrushCoreにてモデリングを行う際のアタリを取る用に作成し�
 ## Requirement
 
 Python 3.7で動作確認  
-[Harbor3d](https://github.com/MarataUni/Harbor3d)がインストールされている環境で実行できる
+[Harbor3d](https://github.com/MarataUni/Harbor3d)がインストールされている環境で実行できる  
+(Harbor3d の対応バージョンは[ver 0.1.1](https://github.com/MurataUni/Harbor3d/releases/tag/v_0_1_1))
 
 ## Usage
 
